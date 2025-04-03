@@ -1,0 +1,4 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+#GPAS-12
+weap_gpas12_fire_plr,,weapons/r1_gpas12/weap_gpas12_fire_plr.wav,0.66,0.73,wpnplyr,1,1,500000,,local,,,,0.85,,,,,weapon2
+weap_gpas12_fire_npc,,weapons/r1_gpas12/weap_gpas12_fire_npc.wav,0.78,0.84,wpnai,1,1,35,10920,weapon,,,,0.7,all_mp,,,,weapon4
