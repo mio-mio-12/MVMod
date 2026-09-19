@@ -1,5 +1,5 @@
 # MVMod
-COD4 Mod aimed at improving editability and modernization
+COD4 Mod for quick editing workflows
 
 NOT for playability or balance. Purely to smooth and refresh the experience of faking frags for MVM
 ---
